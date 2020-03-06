@@ -54,3 +54,4 @@ env.yml
 
 # other
 mocks
+api-test.sh
